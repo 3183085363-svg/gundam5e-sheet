@@ -1,0 +1,15 @@
+{
+  "name": "高达5e UC · 角色卡 (dev)",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "开发调试版：指向本地 vite dev server",
+  "author": "小汤圆 × 红豆包",
+  "action": {
+    "title": "高达5e UC · 角色卡 (dev)",
+    "icon": "http://localhost:5174/icon.svg",
+    "popover": "http://localhost:5174/",
+    "height": 760,
+    "width": 520
+  },
+  "permissions": []
+}
